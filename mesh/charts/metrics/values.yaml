@@ -1,7 +1,7 @@
 image:
-  prometheus: prom/prometheus:v2.11.1
-  grafana: grafana/grafana:6.2.5
-  configmapReload: jimmidyson/configmap-reload:v0.2.2
+  prometheus: prom/prometheus:v2.41.0
+  grafana: grafana/grafana:9.3.2
+  configmapReload: jimmidyson/configmap-reload:v0.8.0
 
 grafana:
   service:
